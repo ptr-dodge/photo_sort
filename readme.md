@@ -7,4 +7,4 @@ usage:
     sort.py folder1 folder2 ...
 ```
 
-Creates folders by Year and Month
+Creates folders by Year and folders by Month inside
